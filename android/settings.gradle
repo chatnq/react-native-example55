@@ -1,0 +1,3 @@
+rootProject.name = 'vd55'
+
+include ':app'
