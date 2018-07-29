@@ -9,7 +9,7 @@ export default class LogoTitle extends React.Component {
           source={require('./cart.png')}
           style={{ width: 30, height: 30 }}
         />         
-               </View>
+       </View>
       );
     }
   }
